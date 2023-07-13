@@ -162,6 +162,6 @@ h3.card {
         padding: 20px;
     }
     #first {
-        justify-content: center;
+        text-align: center;
     }
 }
