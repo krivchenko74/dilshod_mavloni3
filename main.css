@@ -106,10 +106,14 @@ h3.card {
     line-height: normal;
 }
 .pay-form h2 {
-    font-size: 24px;
     padding-bottom: 19px;
+}
+#first {
     border-bottom: 1px solid #fff;
+    display: inline-block;
+    padding: 0px 40px 10px 0px;
     margin-bottom: 20px;
+    text-align: left;
 }
 .pay-form h3 {
     margin-bottom: 20px;
@@ -159,10 +163,13 @@ h3.card {
     .pay-form img {
         width: 100%;
     }
+    .pay-form h2 {
+        font-size: 22px;
+    }
     .pay-form {
         padding: 20px;
     }
     #first {
-        text-align: center;
+        padding: 0px 40px 10px 40px; ;
     }
 }
