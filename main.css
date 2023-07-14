@@ -17,12 +17,10 @@ body {
 }
 #firstonpage {
     text-align: center;
+    margin: 30px 0px;
 }
 h3 {
     font-size: 20px;
-}
-h3:first-child {
-    margin: 30px 0px;
 }
 .content-block.first {
     padding-top: 20px;
